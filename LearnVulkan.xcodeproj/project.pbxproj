@@ -105,9 +105,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = AB53E9BD2917D9290046709E /* Build configuration list for PBXNativeTarget "LearnVulkan" */;
 			buildPhases = (
-				AB53E9B22917D9290046709E /* Sources */,
 				AB53E9B32917D9290046709E /* Frameworks */,
 				AB53E9B42917D9290046709E /* CopyFiles */,
+				AB53E9B22917D9290046709E /* Sources */,
 			);
 			buildRules = (
 			);
